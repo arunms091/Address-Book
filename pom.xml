@@ -15,7 +15,7 @@ xml version="1.0" encoding="UTF-8"
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
     </properties>
 
-
+<!---------->
     <repositories>
         <repository>
             <id>vaadin-prereleases</id>
